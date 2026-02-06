@@ -29,8 +29,8 @@ CS student focused on building clean, practical software with solid logic, real 
 - Personal tools and projects that prioritize usability and maintainability
 
 ## Selected Projects
-- **SecureVault** â  Full‑stack password manager with encrypted vault storage, password strength analysis, breach checking and 2FA
-- **Personal Inflation Tracker** â Full stack web application with integrated FRED API and KPI cards
-- **Personal Portfolio** â Designed and built from scratch, deployed at dhruvdave.ca 
+- **SecureVault**   Full‑stack password manager with encrypted vault storage, password strength analysis, breach checking and 2FA
+- **Personal Inflation Tracker**  Full stack web application with integrated FRED API and KPI cards
+- **Personal Portfolio**  Designed and built from scratch, deployed at dhruvdave.ca 
 
 > I focus on building projects that work end-to-end and are easy to reason about, not just things that look good in screenshots.
