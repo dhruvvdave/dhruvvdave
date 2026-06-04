@@ -28,7 +28,6 @@ Financial tools, dev utilities, and full-stack apps I'd actually use. Mostly Rea
 
 ## Projects
 
-- **[ai-code-reviewer](https://github.com/dhruvvdave/ai-code-reviewer)** — Chrome extension that reviews code inline. FastAPI backend, Manifest V3 frontend
 - **[stock-screener](https://github.com/dhruvvdave/stock-screener)** — Live stock screener with Finnhub prices and OpenAI analysis. Running at [stock-screener-kappa-one.vercel.app](https://stock-screener-kappa-one.vercel.app)
 - **[securevault](https://github.com/dhruvvdave/securevault)** — Password manager with breach checking, strength analysis, and 2FA
 - **[finance-tracker](https://github.com/dhruvvdave/finance-tracker)** — Personal inflation and expense tracker with FRED API integration
