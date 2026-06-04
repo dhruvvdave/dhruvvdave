@@ -16,7 +16,6 @@ CS student focused on building clean, practical software with solid logic, real 
 
 ![FastAPI](https://img.shields.io/badge/fastapi-white?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/Postgresql-white?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker)
 ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs)
@@ -24,13 +23,14 @@ CS student focused on building clean, practical software with solid logic, real 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 
 ## What I Build
-- Interactive applications with clear logic and structured code
-- Web apps that consume real APIs and handle user input cleanly
-- Personal tools and projects that prioritize usability and maintainability
 
-## Selected Projects
-- **SecureVault** Full‑stack password manager with encrypted vault storage, password strength analysis, breach checking and 2FA
-- **Personal Inflation Tracker** Full stack web application with integrated FRED API and KPI cards
-- **Personal Portfolio** Designed and built from scratch, deployed at dhruvdave.ca 
+Financial tools, dev utilities, and full-stack apps I'd actually use. Mostly React/FastAPI with real APIs — not toy projects.
 
+## Projects
+
+- **[ai-code-reviewer](https://github.com/dhruvvdave/ai-code-reviewer)** — Chrome extension that reviews code inline. FastAPI backend, Manifest V3 frontend
+- **[stock-screener](https://github.com/dhruvvdave/stock-screener)** — Live stock screener with Finnhub prices and OpenAI analysis. Running at [stock-screener-kappa-one.vercel.app](https://stock-screener-kappa-one.vercel.app)
+- **[securevault](https://github.com/dhruvvdave/securevault)** — Password manager with breach checking, strength analysis, and 2FA
+- **[finance-tracker](https://github.com/dhruvvdave/finance-tracker)** — Personal inflation and expense tracker with FRED API integration
+  
 > I focus on building projects that work end-to-end and are easy to reason about, not just things that look good in screenshots.
