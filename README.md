@@ -24,7 +24,6 @@ CS student at Queen's University focused on building clean, practical software w
 ![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-white?style=for-the-badge&logo=redis)
-![Azure](https://img.shields.io/badge/Azure-white?style=for-the-badge&logo=microsoftazure)
 
 ## What I Build
 
@@ -32,7 +31,6 @@ Financial tools, dev utilities, and full-stack apps I'd actually use. Mostly Rea
 
 ## Projects
 
-- **[matchlight](https://github.com/dhruvvdave/matchlight)** — Multi-agent match intelligence engine built for the Microsoft × Premier League "Inside the Game" hackathon. Turns a live stream of synthetic football events into grounded insight, timed broadcast overlays, multilingual narration, and recaps, with a Critic agent that rejects claims the data doesn't support. TypeScript, Azure OpenAI, Microsoft Agent Framework.
 - **[ctx](https://github.com/dhruvvdave/ctx-saver)** — Browser session tracker that tells you what you were working on when you come back. Chrome extension (Manifest V3) published on the Chrome Web Store, with an optional local TypeScript/Hono backend, SQLite store, and CLI. Everything stays on your machine.
 - **SecureVault** — Browser-side password analyzer and generator using the Web Crypto API. React, Vite, Playwright tests, Docker/nginx. Live at [securevault.dhruvdave.ca](https://securevault.dhruvdave.ca)
 - **[stock-screener](https://github.com/dhruvvdave/stock-screener)** — Live stock screener with Finnhub prices and OpenAI analysis. Running at [stock-screener-kappa-one.vercel.app](https://stock-screener-kappa-one.vercel.app)
